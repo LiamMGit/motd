@@ -1,2 +1,3 @@
 # motd
-ye
+used for monkephone modded
+lol
